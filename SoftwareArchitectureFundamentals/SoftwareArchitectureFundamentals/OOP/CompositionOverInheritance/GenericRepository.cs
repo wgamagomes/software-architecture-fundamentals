@@ -1,4 +1,8 @@
-﻿namespace SoftwareArchitectureFundamentals.OOP.CompositionOverInheritance
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace SoftwareArchitectureFundamentals.OOP.CompositionOverInheritance
 {
     public class GenericRepository<TEntity> : IGenericRepository<TEntity>
         where TEntity : class, new()
