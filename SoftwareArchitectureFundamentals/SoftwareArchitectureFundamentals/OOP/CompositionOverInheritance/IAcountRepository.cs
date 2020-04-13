@@ -2,6 +2,6 @@
 {
     public interface IAcountRepository
     {
-        void Add(Acount acount);
+        void Add(BankAcount acount);
     }
 }

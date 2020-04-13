@@ -1,6 +1,6 @@
 ﻿namespace SoftwareArchitectureFundamentals.OOP.CompositionOverInheritance
 {
-    public class Acount
+    public class BankAcount
     {
     }
 }

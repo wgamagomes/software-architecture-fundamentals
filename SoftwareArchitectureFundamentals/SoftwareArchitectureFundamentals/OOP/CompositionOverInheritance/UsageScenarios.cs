@@ -1,10 +1,10 @@
 ﻿namespace SoftwareArchitectureFundamentals.OOP.CompositionOverInheritance
 {
-    public class UsageScenario
+    public class UsageScenarios
     {
         public static void Inheritance()
         {
-            var acount = new Acount();
+            var acount = new BankAcount();
             var repository = new AcountRepositoryInheritance();
 
             // Desired behavior
@@ -17,8 +17,8 @@
 
         public static void Composition()
         {
-            var acount = new Acount();
-            IGenericRepository<Acount> genericRepository = new GenericRepository<Acount>();
+            var acount = new BankAcount();
+            IGenericRepository<BankAcount> genericRepository = new GenericRepository<BankAcount>();
 
             // Program to interfaces, not implementations
             // Low coupling
