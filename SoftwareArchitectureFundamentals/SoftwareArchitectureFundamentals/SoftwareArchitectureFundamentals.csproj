@@ -5,7 +5,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="OOP\" />
+    <Folder Include="OOP\Encapsulation\" />
+    <Folder Include="OOP\ProgramToInterfacesNotImplementations\" />
   </ItemGroup>
 
 </Project>
