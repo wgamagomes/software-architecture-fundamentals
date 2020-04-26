@@ -9,8 +9,10 @@ namespace SoftwareArchitectureFundamentals.SOLID.SRP.Violation
 
     /// <summary>
     /// Single responsibility principle 
-    /// Robert Cecil Martin, popularly known as "Uncle Bob" expresses the single responsibility principle as, "A class should have only one reason to change
-    /// However in this class there are many responsibilities: data validation, open database connection, save data into database, build message  body and send email
+    /// Robert Cecil Martin, popularly known as "Uncle Bob" expresses the single responsibility principle as, 
+    /// "A class should have only one reason to change". 
+    /// However in this class there are many responsibilities: 
+    /// Data validation, open database connection, save data into database, build message  body and send email
     /// </summary>
     public class Customer
     {
