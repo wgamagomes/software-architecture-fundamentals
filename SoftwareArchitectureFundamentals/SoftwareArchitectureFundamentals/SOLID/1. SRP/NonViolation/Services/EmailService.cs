@@ -1,8 +1,8 @@
-﻿
+﻿using SoftwareArchitectureFundamentals.SOLID.DIP.Common;
 using SoftwareArchitectureFundamentals.Stubs;
 using System.Text.RegularExpressions;
 
-namespace SoftwareArchitectureFundamentals.SOLID.SRP.NonViolation
+namespace SoftwareArchitectureFundamentals.SOLID.SRP.NonViolation.Services
 {
     internal class EmailService: IEmailService
     {

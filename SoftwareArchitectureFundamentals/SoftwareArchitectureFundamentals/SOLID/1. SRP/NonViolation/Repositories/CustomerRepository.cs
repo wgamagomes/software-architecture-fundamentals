@@ -1,7 +1,9 @@
-﻿using SoftwareArchitectureFundamentals.Stubs;
+﻿using SoftwareArchitectureFundamentals.SOLID.SRP.NonViolation.Entities;
+using SoftwareArchitectureFundamentals.SOLID.SRP.NonViolation.Interfaces;
+using SoftwareArchitectureFundamentals.Stubs;
 using System.Data;
 
-namespace SoftwareArchitectureFundamentals.SOLID.SRP.NonViolation
+namespace SoftwareArchitectureFundamentals.SOLID.SRP.NonViolation.Repositories
 {
     public class CustomerRepository : ICustomerRepository
     {

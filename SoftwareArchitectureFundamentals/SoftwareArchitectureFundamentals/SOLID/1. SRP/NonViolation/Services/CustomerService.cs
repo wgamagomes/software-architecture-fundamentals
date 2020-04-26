@@ -1,4 +1,7 @@
-﻿namespace SoftwareArchitectureFundamentals.SOLID.SRP.NonViolation
+﻿using SoftwareArchitectureFundamentals.SOLID.SRP.NonViolation.Entities;
+using SoftwareArchitectureFundamentals.SOLID.SRP.NonViolation.Interfaces;
+
+namespace SoftwareArchitectureFundamentals.SOLID.SRP.NonViolation.Services
 {
     public class CustomerService
     {

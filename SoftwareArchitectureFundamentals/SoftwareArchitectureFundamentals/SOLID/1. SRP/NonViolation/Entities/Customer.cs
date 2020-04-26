@@ -1,7 +1,8 @@
-﻿using System;
+﻿using SoftwareArchitectureFundamentals.SOLID.DIP.Common;
+using System;
 
 
-namespace SoftwareArchitectureFundamentals.SOLID.SRP.NonViolation
+namespace SoftwareArchitectureFundamentals.SOLID.SRP.NonViolation.Entities
 {
 
     public class Customer

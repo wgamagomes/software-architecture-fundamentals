@@ -1,4 +1,4 @@
-﻿namespace SoftwareArchitectureFundamentals.SOLID.SRP.NonViolation
+﻿namespace SoftwareArchitectureFundamentals.SOLID.SRP.NonViolation.Interfaces
 {
     public interface IEmailService
     {
