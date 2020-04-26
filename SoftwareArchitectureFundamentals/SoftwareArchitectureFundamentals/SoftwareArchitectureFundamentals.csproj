@@ -8,7 +8,6 @@
     <Folder Include="OOP\Encapsulation\" />
     <Folder Include="OOP\ProgramToInterfacesNotImplementations\" />
     <Folder Include="SOLID\3. LSP\" />
-    <Folder Include="SOLID\4. ISP\NonViolation\" />
   </ItemGroup>
 
 </Project>
