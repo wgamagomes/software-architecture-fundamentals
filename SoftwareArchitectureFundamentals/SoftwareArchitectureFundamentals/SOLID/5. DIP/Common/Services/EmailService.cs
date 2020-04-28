@@ -3,7 +3,7 @@ using SoftwareArchitectureFundamentals.SOLID.DIP.Common.Interfaces;
 using SoftwareArchitectureFundamentals.Stubs;
 using System.Text.RegularExpressions;
 
-namespace SoftwareArchitectureFundamentals.SOLID.DIP.Common
+namespace SoftwareArchitectureFundamentals.SOLID.DIP.Common.Services
 {
     internal class EmailService: IEmailService
     {

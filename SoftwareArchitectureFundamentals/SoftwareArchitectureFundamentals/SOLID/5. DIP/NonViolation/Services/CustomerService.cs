@@ -1,7 +1,7 @@
 ﻿using SoftwareArchitectureFundamentals.SOLID.DIP.Common.Entities;
 using SoftwareArchitectureFundamentals.SOLID.DIP.Common.Interfaces;
 
-namespace SoftwareArchitectureFundamentals.SOLID.DIP.NonViolation
+namespace SoftwareArchitectureFundamentals.SOLID.DIP.NonViolation.Services
 {
     public class CustomerService
     {
