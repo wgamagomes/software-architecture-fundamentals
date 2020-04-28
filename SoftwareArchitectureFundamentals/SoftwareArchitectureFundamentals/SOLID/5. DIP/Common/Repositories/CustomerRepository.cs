@@ -1,7 +1,7 @@
 ﻿using SoftwareArchitectureFundamentals.Stubs;
 using System.Data;
 
-namespace SoftwareArchitectureFundamentals.SOLID.DIP.Common
+namespace SoftwareArchitectureFundamentals.SOLID.DIP.Common.Repositories
 {
     public class CustomerRepository : ICustomerRepository
     {
