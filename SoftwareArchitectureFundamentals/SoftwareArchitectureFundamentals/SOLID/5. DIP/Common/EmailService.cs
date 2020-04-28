@@ -1,4 +1,5 @@
 ﻿
+using SoftwareArchitectureFundamentals.SOLID.DIP.Common.Interfaces;
 using SoftwareArchitectureFundamentals.Stubs;
 using System.Text.RegularExpressions;
 

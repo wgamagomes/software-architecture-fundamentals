@@ -1,4 +1,5 @@
-﻿using System;
+﻿using SoftwareArchitectureFundamentals.SOLID.DIP.Common.Interfaces;
+using System;
 
 
 namespace SoftwareArchitectureFundamentals.SOLID.DIP.Common

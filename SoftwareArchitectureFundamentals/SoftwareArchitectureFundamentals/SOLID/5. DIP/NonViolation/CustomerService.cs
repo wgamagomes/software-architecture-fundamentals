@@ -1,4 +1,5 @@
 ﻿using SoftwareArchitectureFundamentals.SOLID.DIP.Common;
+using SoftwareArchitectureFundamentals.SOLID.DIP.Common.Interfaces;
 
 namespace SoftwareArchitectureFundamentals.SOLID.DIP.NonViolation
 {

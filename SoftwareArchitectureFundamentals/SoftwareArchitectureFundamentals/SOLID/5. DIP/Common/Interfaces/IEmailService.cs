@@ -1,4 +1,4 @@
-﻿namespace SoftwareArchitectureFundamentals.SOLID.DIP.Common
+﻿namespace SoftwareArchitectureFundamentals.SOLID.DIP.Common.Interfaces
 {
     public interface IEmailService
     {

@@ -1,4 +1,4 @@
-﻿using SoftwareArchitectureFundamentals.SOLID.DIP.Common;
+﻿using SoftwareArchitectureFundamentals.SOLID.SRP.NonViolation.Interfaces;
 using System;
 
 

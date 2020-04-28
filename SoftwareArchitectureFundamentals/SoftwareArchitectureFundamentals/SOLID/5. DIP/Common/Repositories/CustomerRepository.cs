@@ -1,4 +1,5 @@
-﻿using SoftwareArchitectureFundamentals.Stubs;
+﻿using SoftwareArchitectureFundamentals.SOLID.DIP.Common.Interfaces;
+using SoftwareArchitectureFundamentals.Stubs;
 using System.Data;
 
 namespace SoftwareArchitectureFundamentals.SOLID.DIP.Common.Repositories
