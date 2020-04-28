@@ -1,4 +1,5 @@
 ﻿using SoftwareArchitectureFundamentals.SOLID.DIP.Common;
+using SoftwareArchitectureFundamentals.SOLID.DIP.Common.Entities;
 using SoftwareArchitectureFundamentals.SOLID.DIP.Common.Repositories;
 
 namespace SoftwareArchitectureFundamentals.SOLID.DIP.Violation

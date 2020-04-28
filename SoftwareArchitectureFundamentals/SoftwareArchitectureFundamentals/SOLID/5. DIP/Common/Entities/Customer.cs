@@ -2,7 +2,7 @@
 using System;
 
 
-namespace SoftwareArchitectureFundamentals.SOLID.DIP.Common
+namespace SoftwareArchitectureFundamentals.SOLID.DIP.Common.Entities
 {
 
     public class Customer
